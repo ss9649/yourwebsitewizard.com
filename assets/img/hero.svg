@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Hero Image">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5E6E0"/><stop offset=".55" stop-color="#E8D0C8"/><stop offset="1" stop-color="#D2A9A2"/>
+    </linearGradient>
+    <radialGradient id="g1v" cx=".5" cy=".42" r=".78">
+      <stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#6B4F4C" stop-opacity=".16"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g1)"/>
+  <g><path d="M150.9 -80.0 C681.6 335.7, 992.0 808.6, 1083.4 1080.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M173.7 -80.0 C480.0 371.4, 1272.0 777.1, 1174.9 1080.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M196.6 -80.0 C950.4 407.1, 992.0 745.7, 1266.3 1080.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M219.4 -80.0 C748.8 442.9, 1272.0 714.3, 1357.7 1080.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M242.3 -80.0 C547.2 478.6, 992.0 682.9, 1449.1 1080.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M265.1 -80.0 C1017.6 514.3, 1272.0 651.4, 1540.6 1080.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M288.0 -80.0 C816.0 550.0, 992.0 620.0, 1632.0 1080.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/></g>
+  <rect width="1600" height="1000" fill="url(#g1v)"/>
+  <rect x="45" y="45" width="1510" height="910" fill="none" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1"/>
+  <g font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#4A3634">
+    <text x="1248" y="826.2" font-size="62" font-style="italic" fill-opacity=".78">Hero Image</text>
+  </g>
+  <g font-family="'Jost', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#4A3634">
+    <text x="1248" y="891.3" font-size="32" letter-spacing="7.0" fill-opacity=".5">REPLACE ME</text>
+  </g>
+</svg>

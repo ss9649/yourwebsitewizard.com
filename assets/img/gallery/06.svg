@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" width="900" height="1125" role="img" aria-label="Silver Blend">
+  <defs>
+    <linearGradient id="g35" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4E8EC"/><stop offset=".55" stop-color="#E3CCD6"/><stop offset="1" stop-color="#C29BAC"/>
+    </linearGradient>
+    <radialGradient id="g35v" cx=".5" cy=".42" r=".78">
+      <stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#6B4F4C" stop-opacity=".16"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#g35)"/>
+  <g><path d="M522.0 -90.0 C459.0 1743.8, 495.0 -292.5, 2358.0 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M534.9 -90.0 C345.6 1783.9, 652.5 -327.9, 2409.4 1215.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M547.7 -90.0 C610.2 1824.1, 495.0 -363.2, 2460.9 1215.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M560.6 -90.0 C496.8 1864.3, 652.5 -398.6, 2512.3 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M573.4 -90.0 C383.4 1904.5, 495.0 -433.9, 2563.7 1215.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M586.3 -90.0 C270.0 1944.6, 652.5 -469.3, 2615.1 1215.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M599.1 -90.0 C534.6 1984.8, 495.0 -504.6, 2666.6 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/></g>
+  <rect width="900" height="1125" fill="url(#g35v)"/>
+  <rect x="41" y="41" width="818" height="1043" fill="none" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1"/>
+  <g font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#4A3634">
+    <text x="450" y="568.1" font-size="56" font-style="italic" fill-opacity=".78">Silver Blend</text>
+  </g>
+  <g font-family="'Jost', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#4A3634">
+    <text x="450" y="626.9" font-size="29" letter-spacing="6.4" fill-opacity=".5">REPLACE ME</text>
+  </g>
+</svg>

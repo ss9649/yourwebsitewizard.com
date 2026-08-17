@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" width="900" height="1125" role="img" aria-label="Curtain Bangs">
+  <defs>
+    <linearGradient id="g34" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EDE6E6"/><stop offset=".55" stop-color="#D8CBCB"/><stop offset="1" stop-color="#AE9B9B"/>
+    </linearGradient>
+    <radialGradient id="g34v" cx=".5" cy=".42" r=".78">
+      <stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#6B4F4C" stop-opacity=".16"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#g34)"/>
+  <g><path d="M509.1 -90.0 C345.6 1703.6, 747.0 -257.1, 2306.6 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M522.0 -90.0 C610.2 1743.8, 589.5 -292.5, 2358.0 1215.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M534.9 -90.0 C496.8 1783.9, 747.0 -327.9, 2409.4 1215.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M547.7 -90.0 C383.4 1824.1, 589.5 -363.2, 2460.9 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M560.6 -90.0 C270.0 1864.3, 747.0 -398.6, 2512.3 1215.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M573.4 -90.0 C534.6 1904.5, 589.5 -433.9, 2563.7 1215.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M586.3 -90.0 C421.2 1944.6, 747.0 -469.3, 2615.1 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/></g>
+  <rect width="900" height="1125" fill="url(#g34v)"/>
+  <rect x="41" y="41" width="818" height="1043" fill="none" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1"/>
+  <g font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#4A3634">
+    <text x="450" y="568.1" font-size="56" font-style="italic" fill-opacity=".78">Curtain Bangs</text>
+  </g>
+  <g font-family="'Jost', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#4A3634">
+    <text x="450" y="626.9" font-size="29" letter-spacing="6.4" fill-opacity=".5">REPLACE ME</text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Studio Interior">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2E9E1"/><stop offset=".55" stop-color="#E2D2C3"/><stop offset="1" stop-color="#C7AC96"/>
+    </linearGradient>
+    <radialGradient id="g3v" cx=".5" cy=".42" r=".78">
+      <stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#6B4F4C" stop-opacity=".16"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g3)"/>
+  <g><path d="M147.4 -64.0 C813.6 325.7, 912.0 596.6, 949.7 864.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M164.6 -64.0 C662.4 354.3, 702.0 571.4, 1018.3 864.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M181.7 -64.0 C511.2 382.9, 912.0 546.3, 1086.9 864.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M198.9 -64.0 C360.0 411.4, 702.0 521.1, 1155.4 864.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M216.0 -64.0 C712.8 440.0, 912.0 496.0, 1224.0 864.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M233.1 -64.0 C561.6 468.6, 702.0 470.9, 1292.6 864.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M250.3 -64.0 C410.4 497.1, 912.0 445.7, 1361.1 864.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/></g>
+  <rect width="1200" height="800" fill="url(#g3v)"/>
+  <rect x="36" y="36" width="1128" height="728" fill="none" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1"/>
+  <g font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#4A3634">
+    <text x="600" y="405" font-size="50" font-style="italic" fill-opacity=".78">Studio Interior</text>
+  </g>
+  <g font-family="'Jost', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#4A3634">
+    <text x="600" y="457.5" font-size="26" letter-spacing="5.7" fill-opacity=".5">REPLACE ME</text>
+  </g>
+</svg>

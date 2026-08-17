@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" width="900" height="1125" role="img" aria-label="Bridal Updo">
+  <defs>
+    <linearGradient id="g32" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFE4E6"/><stop offset=".55" stop-color="#DCC7CC"/><stop offset="1" stop-color="#BC9AA3"/>
+    </linearGradient>
+    <radialGradient id="g32v" cx=".5" cy=".42" r=".78">
+      <stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#6B4F4C" stop-opacity=".16"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#g32)"/>
+  <g><path d="M483.4 -90.0 C496.8 1623.2, 621.0 -186.4, 2203.7 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M496.3 -90.0 C383.4 1663.4, 778.5 -221.8, 2255.1 1215.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M509.1 -90.0 C270.0 1703.6, 621.0 -257.1, 2306.6 1215.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M522.0 -90.0 C534.6 1743.8, 778.5 -292.5, 2358.0 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/><path d="M534.9 -90.0 C421.2 1783.9, 621.0 -327.9, 2409.4 1215.0" stroke="#8E6E72" stroke-opacity="0.15" stroke-width="1.5" fill="none" stroke-linecap="round"/><path d="M547.7 -90.0 C307.8 1824.1, 778.5 -363.2, 2460.9 1215.0" stroke="#8E6E72" stroke-opacity="0.20" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M560.6 -90.0 C572.4 1864.3, 621.0 -398.6, 2512.3 1215.0" stroke="#8E6E72" stroke-opacity="0.10" stroke-width="0.8" fill="none" stroke-linecap="round"/></g>
+  <rect width="900" height="1125" fill="url(#g32v)"/>
+  <rect x="41" y="41" width="818" height="1043" fill="none" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1"/>
+  <g font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" text-anchor="middle" fill="#4A3634">
+    <text x="450" y="568.1" font-size="56" font-style="italic" fill-opacity=".78">Bridal Updo</text>
+  </g>
+  <g font-family="'Jost', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#4A3634">
+    <text x="450" y="626.9" font-size="29" letter-spacing="6.4" fill-opacity=".5">REPLACE ME</text>
+  </g>
+</svg>
